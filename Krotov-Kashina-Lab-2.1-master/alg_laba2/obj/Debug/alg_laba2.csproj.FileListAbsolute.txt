@@ -1,0 +1,11 @@
+C:\Users\tailt\Desktop\Krotov-Kashina-Lab-2.1-master\alg_laba2\bin\Debug\alg_laba2.exe.config
+C:\Users\tailt\Desktop\Krotov-Kashina-Lab-2.1-master\alg_laba2\bin\Debug\alg_laba2.exe
+C:\Users\tailt\Desktop\Krotov-Kashina-Lab-2.1-master\alg_laba2\bin\Debug\alg_laba2.pdb
+C:\Users\tailt\Desktop\Krotov-Kashina-Lab-2.1-master\alg_laba2\obj\Debug\alg_laba2.csproj.AssemblyReference.cache
+C:\Users\tailt\Desktop\Krotov-Kashina-Lab-2.1-master\alg_laba2\obj\Debug\alg_laba2.csproj.SuggestedBindingRedirects.cache
+C:\Users\tailt\Desktop\Krotov-Kashina-Lab-2.1-master\alg_laba2\obj\Debug\alg_laba2.Form1.resources
+C:\Users\tailt\Desktop\Krotov-Kashina-Lab-2.1-master\alg_laba2\obj\Debug\alg_laba2.Properties.Resources.resources
+C:\Users\tailt\Desktop\Krotov-Kashina-Lab-2.1-master\alg_laba2\obj\Debug\alg_laba2.csproj.GenerateResource.cache
+C:\Users\tailt\Desktop\Krotov-Kashina-Lab-2.1-master\alg_laba2\obj\Debug\alg_laba2.csproj.CoreCompileInputs.cache
+C:\Users\tailt\Desktop\Krotov-Kashina-Lab-2.1-master\alg_laba2\obj\Debug\alg_laba2.exe
+C:\Users\tailt\Desktop\Krotov-Kashina-Lab-2.1-master\alg_laba2\obj\Debug\alg_laba2.pdb
